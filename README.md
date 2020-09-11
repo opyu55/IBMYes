@@ -1,6 +1,6 @@
 fork [https://github.com/CCChieh/IBMYes](https://github.com/CCChieh/IBMYes)  
 
-
+   
 # 更新内容:
 * `Secrets` 加入 `V2_ID`, `V2_PATH`, `ALTER_ID`,  
   对应`vmess id`, `ws path`, `alterId`
@@ -8,7 +8,7 @@ fork [https://github.com/CCChieh/IBMYes](https://github.com/CCChieh/IBMYes)
 
 
 # 配置流程
-
+   
 ### 配置IBM Cloud Fonudray
 * 注册并登录[https://cloud.ibm.com/](https://cloud.ibm.com/)
 * 点击右侧 创建资源
